@@ -11,7 +11,7 @@ module.exports = {
   title: 'ShipPalm',
   tagline: 'Marine ERP Solution',
   url: 'https://orange-moss-04e232c00.azurestaticapps.net/',
-  baseUrl: '/help/',
+  baseUrl: '/',
   favicon: 'img/favicon.ico',
   organizationName: 'vishnu-alpha', // Usually your GitHub org/user name.
   projectName: 'ShipPalmDocs', // Usually your repo name.

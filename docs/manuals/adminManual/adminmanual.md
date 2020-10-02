@@ -48,11 +48,11 @@ For creating a new project follow as below: -
 
 In the BLOB search, type *Projects* and select the item from the list
 
-![](/help/admin/image9.png)
+![](/admin/image9.png)
 
 -   Click on *New* to create a new project.
 
-![](/help/admin/image10.png)
+![](/admin/image10.png)
 
 -   Update *No., Description, Start Date, End date and Dry Dock
     details.*
@@ -66,16 +66,16 @@ For adding a maker to the list follow as below: -
 -   In the BLOB search, type *Manufacturers* and select the item from
     the list
 
-![](/help/admin/image11.png)
+![](/admin/image11.png)
 
 -   Update the *Code* and *Manufacturer Name*
 
-![](/help/admin/image12.png)
+![](/admin/image12.png)
 
 -   Manufacturer\'s Name is added. The screen gets auto-saved. Click on
     the back button to exit.
 
-![](/help/admin/image13.png)
+![](/admin/image13.png)
 
 ## 3. Creating Manufacturer Model
 
@@ -85,16 +85,16 @@ For creating a manufacturer model follow as below: -
 
 -   In the BLOB search, type *MT Manufacturer Model* and select the item from the list
 
-![](/help/admin/image14.png)
+![](/admin/image14.png)
 
 -   Update *Code* & *Description*
 
-![](/help/admin/image15.png)
+![](/admin/image15.png)
 
 -   The manufacturer model is added. The screen gets auto-saved. Click
     on the back button to exit.
 
-![](/help/admin/image16.png)
+![](/admin/image16.png)
 
 ## 4. Work Order Management Setup
 
@@ -104,53 +104,53 @@ For setting up the Work Order Management Setup, follow as below: -
 
 -   In the BLOB search, type *Work Order Management Setup* and select the item from the list
 
-![](/help/admin/image17.png)
+![](/admin/image17.png)
 
 -   Updated *Exceeding Planned Cost Work Order* as *Posted Work Order:
     Invoices/ Planned*
 
 -   Select *Drop File Type* as *BC-Link*
 
-![](/help/admin/image18.png)
+![](/admin/image18.png)
 
 -   Under *Numbering*, select the *No. Series* to be followed for WO
     Requests, WO, Work Plans and Time Schedules.
 
-![](/help/admin/image19.png)
+![](/admin/image19.png)
 
 -   Under *Electronic Signature*, enable "Dual Control", when this
     toggle is enabled, user can able to post the registered WO
 
-![](/help/admin/image20.png)
+![](/admin/image20.png)
 
 -   Under *Time Recording*, select the No. Series to be followed for
     Time Recordings.
 
-![](/help/admin/image21.png)
+![](/admin/image21.png)
 
 -   Under *Checklist,* select the No. Series to be followed for the
     Checklist.
 
-![](/help/admin/image22.png)
+![](/admin/image22.png)
 
 -   Toggle the bar to active for uploading images against Technical
     Objects.
 
-![](/help/admin/image23.png)
+![](/admin/image23.png)
 
 -   Go to *Actions\>\>Functions\>\>Change Work Order Status*
 
-![](/help/admin/image24.png)
+![](/admin/image24.png)
 
 -   Update the Work Order Status that the work orders should follow
 :::tip
 *Marking a Status as Down gradable means the work order can be reverted to a previous status*
 :::
-![](/help/admin/image25.png)
+![](/admin/image25.png)
 
 -   The screen gets auto-saved. Click on the button to go back.
 
-![](/help/admin/image26.png)}
+![](/admin/image26.png)}
 
 -   *Work Order Management Setup* completed successfully.
 
@@ -166,11 +166,11 @@ For setting up the approval setup follow as below: -
 -   In the BLOB search, type *Work Order Approval Setup List* and select
     the item from the list
 
-![](/help/admin/image27.png)
+![](/admin/image27.png)
 
 -   Click on *New* to open the Work Order Approval Setup Card
 
-![](/help/admin/image28.png)
+![](/admin/image28.png)
 
 -   Update *Code* and *Description.*
 
@@ -180,28 +180,28 @@ For setting up the approval setup follow as below: -
 -   Set the *Document Mandatory* to *active* for making the document
     upload mandatory while requesting deferment.
 
-![](/help/admin/image29.png)
+![](/admin/image29.png)
 
 -   Under *Lines,* select the requester and approver.
 
-![](/help/admin/image30.png)
+![](/admin/image30.png)
 :::note
 *Multiple levels of approval can be set up.*
 :::
-![](/help/admin/image31.png)
+![](/admin/image31.png)
 
 -   Go to *Process* and click on *Activate* to set the workflow as
     active.
 
-![](/help/admin/image32.png)
+![](/admin/image32.png)
 
 -   The approval setup is now active.
 
-![](/help/admin/image33.png)
+![](/admin/image33.png)
 
 -   The screen gets auto-saved. Click on the button to close the screen.
 
-![](/help/admin/image34.png)
+![](/admin/image34.png)
 
 
 ## 6. Creating Number series
@@ -209,11 +209,11 @@ For setting up the approval setup follow as below: -
 -   In the BLOB search, type *No. Series* and select the item from the
     list
 
-> ![](/help/admin/image44.png)
+> ![](/admin/image44.png)
 
 -   Click on "New" and enter code and description
 
-> ![](/help/admin/image45.png)
+> ![](/admin/image45.png)
 
 -   Enter Starting date, Starting No and Ending No for the Series
     specific to the description
@@ -230,7 +230,7 @@ automatically while creating a technical component, time-schedule, etc.,
 
 If Manual nos is checked - It's possible to set number series manually
 
-![](/help/admin/image46.png)
+![](/admin/image46.png)
 
 -   To configure the number series for WO Request, WO Nos, WO Feedback,
     Work Plan Nos, TS Nos:
@@ -244,9 +244,9 @@ Setup screen, and update the series under Numbering tab
 Click on the 'bulb' to search and navigate to technical facility
 management setup screen, and update the series under Numbering tab
 
-![](/help/admin/image47.png)
+![](/admin/image47.png)
 
-![](/help/admin/image48.png)
+![](/admin/image48.png)
 
 ## 7. Work order posting setup
 ---
@@ -257,7 +257,7 @@ management setup screen, and update the series under Numbering tab
 -   Click on 'New' in Work Order posting column to create new work order
     posting group
 
-![](/help/admin/image49.png)
+![](/admin/image49.png)
 
 NOTE: WO Posting setup is a one-time setup, it should be set when a new
 vessel is been created in the application
@@ -271,11 +271,11 @@ vessel is been created in the application
 -   Click on 'New' menu in Inventory posting setup screen, to create
     location code, Inv Posting group code, Inventory account etc.,
 
-![](/help/admin/image50.png)
+![](/admin/image50.png)
 
 -   Click on 'New' in Location Code column to create new location codes
 
-![](/help/admin/image51.png)
+![](/admin/image51.png)
 
 NOTE: Inventory Posting setup is a one-time setup, it should be set when
 a new vessel is been created in the application
@@ -298,21 +298,21 @@ For creating a component address, follow as below: -
 
 -   Go to *Component Address* and click on *New*
 
-![](/help/admin/image56.png)
+![](/admin/image56.png)
 
 -   Updated *No., Description, Component Address From* and *Department
     Code.*
 
-![](/help/admin/image57.png)
+![](/admin/image57.png)
 
 -   Drag and drop here any documents to be uploaded.
 
-![](/help/admin/image58.png)
+![](/admin/image58.png)
 
 -   The screen gets auto saved. Component Address is created. Click on
     the icon to go back the listing screen.
 
-![](/help/admin/image59.png)
+![](/admin/image59.png)
 
 ### 9.2. Deleting A Component Address
 
@@ -320,19 +320,19 @@ For deleting a component address, follow as below: -
 
 -   Go to *Component Address* listing screen.
 
-![](/help/admin/image60.png)
+![](/admin/image60.png)
 
 -   Click on Search button and type in to search the component address.
 
-![](/help/admin/image61.png)
+![](/admin/image61.png)
 
 -   Click on the delete icon to delete the component address.
 
-![](/help/admin/image62.png)
+![](/admin/image62.png)
 
 -   Click on Yes.
 
-![](/help/admin/image63.png)
+![](/admin/image63.png)
 :::warning
 *A Component Address cannot be deleted if linked to any Technical Component*
 :::
@@ -358,20 +358,20 @@ For creating a mounting position follow as below: -
 
 -   Go to *Mounting Positions* and click on *New*
 
-![](/help/admin/image64.png)
+![](/admin/image64.png)
 
 -   Update *NO.,* and *Description.*
 
-![](/help/admin/image65.png)
+![](/admin/image65.png)
 
 -   Drag and drop here any documents to be uploaded.
 
-![](/help/admin/image66.png)
+![](/admin/image66.png)
 
 -   The screen gets auto saved. Mounting Position is created. Click on
     the icon to go back the listing screen.
 
-![](/help/admin/image67.png)
+![](/admin/image67.png)
 
 ### 10.2 Deleting A Mounting Position
 
@@ -379,19 +379,19 @@ For deleting a mounting position, follow as below: -
 
 -   Go to *Mounting Position* listing screen.
 
-![](/help/admin/image68.png)
+![](/admin/image68.png)
 
 -   Click on Search button and type in to search the mounting position.
 
-![](/help/admin/image69.png)
+![](/admin/image69.png)
 
 -   Click on the delete icon to delete the component address.
 
-![](/help/admin/image70.png)
+![](/admin/image70.png)
 
 -   Click on Yes.
 
-![](/help/admin/image71.png)
+![](/admin/image71.png)
 :::warning
 *A Mounting Position cannot be deleted if linked to any Component Address or Technical Component*
 :::
@@ -414,35 +414,35 @@ For creating a technical component, follow as below: -
 
 -   Go to *Technical Component* and click on *New.*
 
-![](/help/admin/image72.png)
+![](/admin/image72.png)
 
 -   Select *No.,* and *Mounting Position* from the list
 
-![](/help/admin/image73.png)
+![](/admin/image73.png)
 
 :::importnat
 *For creating a Sub-Component, do not mark Mounting Position, instead select the Parent Component.*
 :::
 
-![](/help/admin/image74.png)
+![](/admin/image74.png)
 
 -   Update *Description, Manufacturer Name, Model, Component Group* and
     *Type.*
 
-![](/help/admin/image75.png)
+![](/admin/image75.png)
 
 -   Mark the components as *Critical* or *Class Machinery* if required.
 
-![](/help/admin/image76.png)
+![](/admin/image76.png)
 
 -   Drag and drop here any documents to be uploaded.
 
-![](/help/admin/image77.png)
+![](/admin/image77.png)
 
 -   The screen gets auto saved. Technical Component is created. Click on
     the icon to go back the listing screen.
 
-![](/help/admin/image78.png)
+![](/admin/image78.png)
 
 ### 11.2 Deleting A Technical Component
 
@@ -450,19 +450,19 @@ For deleting a technical component, follow as below: -
 
 -   Go to *Technical Component* listing screen.
 
-![](/help/admin/image79.png)
+![](/admin/image79.png)
 
 -   Click on Search button and type in to search the mounting position.
 
-![](/help/admin/image80.png)
+![](/admin/image80.png)
 
 -   Click on the delete icon to delete the component address.
 
-![](/help/admin/image81.png)
+![](/admin/image81.png)
 
 -   Click on Yes.
 
-![](/help/admin/image82.png)
+![](/admin/image82.png)
 :::warning
 *A Technical Component cannot be deleted if it is mounted.*
 :::
@@ -482,33 +482,33 @@ For linking mounting position to component address follow as below:
 
 -   Go to *Component Address* listing screen.
 
-![](/help/admin/image83.png)
+![](/admin/image83.png)
 
 -   Click on Search button and type in to search the component address.
 
-![](/help/admin/image61.png)
+![](/admin/image61.png)
 
 -   Click on the *Component Address* and select *Mounting Positions*
     Under *Process*
 
-![](/help/admin/image84.png)
+![](/admin/image84.png)
 
 -   Select the *Mounting Position* from the list and click on *OK.*
 
-![](/help/admin/image85.png)
+![](/admin/image85.png)
 
 -   The screen gets auto saved. Mounting Position linked to Component
     Address. Click on the icon to go back the listing screen.
 
-![](/help/admin/image86.png)
+![](/admin/image86.png)
 
 Upon opening any structure from the component address screen, the link
 navigates to the equipment information structure page. Below is how the
 component structure looks like when all Technical Objects - Component
 Address, Mounting Position and Technical Components are linked together.
 
-![](/help/admin/image87.jpg)
-![](/help/admin/image88.png)
+![](/admin/image87.jpg)
+![](/admin/image88.png)
 
 ## 13. Work Plans
 
@@ -521,40 +521,40 @@ For creating a work plan follow as below: -
 -   Go to *Work Plans* listing screen and click on *New* to create a new
     work plan.
 
-![](/help/admin/image89.png)
+![](/admin/image89.png)
 
 -   Update *No., Description, Type of Activity, Classification, Work
     Order Category* and *Work Order Duration.*
 
-![](/help/admin/image90.png)
+![](/admin/image90.png)
 
 -   Under *Lines* update *items, external services, resources* to be
     used while executing the work plan.
 
-![](/help/admin/image91.png)
+![](/admin/image91.png)
 
 -   Go to *Process\>\>Text*
 
-![](/help/admin/image92.png)
+![](/admin/image92.png)
 
 -   Select the *Work Notices* and *Instructions* from the predefined
     list.
 
-![](/help/admin/image93.png)
+![](/admin/image93.png)
 
-![](/help/admin/image94.png)
+![](/admin/image94.png)
 :::note
 *Click on the New button in case the required Work Notice or Instruction is not available in the predefined list.*
 :::
 -   Click on the *delete* button for deleting any Work notice or
     Instruction from the list.
 
-![](/help/admin/image95.png)
+![](/admin/image95.png)
 
 -   The screen gets auto saved. Work Plan is created. Click on the icon
     to go back the listing screen.
 
-![](/help/admin/image96.png)
+![](/admin/image96.png)
 
 ### 13.2 Deleting A Work Plan
 
@@ -564,15 +564,15 @@ For deleting a work plan, follow as below: -
 
 -   Click on Search button and type in to search the work plan.
 
-![](/help/admin/image97.png)
+![](/admin/image97.png)
 
 -   Click on the delete icon to delete the work plan.
 
-![](/help/admin/image98.png)
+![](/admin/image98.png)
 
 -   Click on Yes.
 
-![](/help/admin/image99.png)
+![](/admin/image99.png)
 :::warning
 *A Work Plan cannot be deleted if it is linked to any time schedule.*
 :::
@@ -591,20 +591,20 @@ For creating a time schedule, follow as below: -
 
 -   Go to *Time Schedule* listing screen and click on *New*
 
-![](/help/admin/image100.png)
+![](/admin/image100.png)
 
 -   Update *No., Work Order Category, Title, Type, Person in Charge,
     Resp. Department.*
 
-![](/help/admin/image101.png)
+![](/admin/image101.png)
 
 -   Under *Activity,* select the *Work Plans*
 
-![](/help/admin/image102.png)
+![](/admin/image102.png)
 
 -   Switch off the *Include Header* option and click on *Ok*.
 
-![](/help/admin/image103.png)
+![](/admin/image103.png)
 
 *NOTE: If Include Header option is kept on, the time schedule no. gets
 replaced with Work Plan No. in the Time Schedule.*
@@ -613,19 +613,19 @@ replaced with Work Plan No. in the Time Schedule.*
     more information needs to be added, same can be added for the Time
     Schedule.
 
-![](/help/admin/image104.png)
+![](/admin/image104.png)
 
 -   If the *Type* for the *Time Schedule* is set to *Time Schedule*,
     update the interval for the time schedule under *Interval*
 
-![](/help/admin/image105.png)
+![](/admin/image105.png)
 :::important
 *Interval will not be editable if the Type is selected as Object Monitoring Template. In this case, the Interval to be set up while setting up the OML for the Technical Component.*
 :::
 -   The screen gets auto saved. Technical Component is created. Click on
     the icon to go back the listing screen.
 
-![](/help/admin/image106.png)
+![](/admin/image106.png)
 
 ### 14.2 Deleting A Time Schedule
 
@@ -635,15 +635,15 @@ For deleting a Time Schedule, follow as below: -
 
 -   Click on Search button and type in to search the work plan.
 
-![](/help/admin/image107.png)
+![](/admin/image107.png)
 
 -   Click on the delete icon to delete the work plan.
 
-![](/help/admin/image98.png)
+![](/admin/image98.png)
 
 -   Click on Yes.
 
-![](/help/admin/image99.png)
+![](/admin/image99.png)
 
 :::caution
 *A Time Schedule cannot be deleted if it is linked to any Technical Object.*
@@ -652,7 +652,7 @@ For deleting a Time Schedule, follow as below: -
 :::note
 **RELATION BETWEEN WORK PLAN, SAFETY NOTICE, TIME SCHEDULE & WORK ORDER**
 
-![](/help/admin/image108.png)
+![](/admin/image108.png)
 :::
 
 ## 15. Periodic Work Orders
@@ -670,42 +670,42 @@ For linking time schedule to a technical component, follow as below: -
 
 -   Go to *Technical Component* listing screen and search the component.
 
-![](/help/admin/image109.png)
+![](/admin/image109.png)
 
 -   Select the component, go to *Process\>\>Monitoring*
 
-![](/help/admin/image110.png)
+![](/admin/image110.png)
 
 -   Select the *Time Schedule No.*
 
-![](/help/admin/image111.png)
+![](/admin/image111.png)
 
 -   If required, click on the *delete* button for removing the time
     schedule from the list.
 
-![](/help/admin/image112.png)
+![](/admin/image112.png)
 
 -   Go to *Process\>\>Card* to open Object Monitoring Card
 
-![](/help/admin/image113.png)
+![](/admin/image113.png)
 
 -   Update *Manufacturer interval, Start Date-time and reminder days*.
 
-![](/help/admin/image114.png)
+![](/admin/image114.png)
 
 -   Under General Tab, update *Automatic Generation of Work Order* to
     Yes and select the status as *Activated.*
 
-![](/help/admin/image115.png)
+![](/admin/image115.png)
 
 -   Click on Yes
 
-![](/help/admin/image116.png)
+![](/admin/image116.png)
 
 -   The screen gets auto saved. Calendar Based Work Orders will not
     generate. Click on the icon to go back the listing screen.
 
-![](/help/admin/image117.png)
+![](/admin/image117.png)
 
 ### 15.2 Setting Up Counter Based Periodic Work Orders
 
@@ -713,41 +713,41 @@ For linking time schedule to a technical component, follow as below: -
 
 -   Go to *Technical Component* listing screen and search the component.
 
-![](/help/admin/image109.png)
+![](/admin/image109.png)
 
 -   Select the component, go to *Process\>\>Monitoring*
 
-![](/help/admin/image110.png)
+![](/admin/image110.png)
 
 -   Select the *Template Code* and *Time Schedule No.*
 
-![](/help/admin/image118.png)
+![](/admin/image118.png)
 
 -   If required, click on the *delete* button for removing the time
     schedule from the list.
 
-![](/help/admin/image112.png)
+![](/admin/image112.png)
 
 -   Go to *Process\>\>Card* to open Object Monitoring Card
 
-![](/help/admin/image119.png)
+![](/admin/image119.png)
 
 -   Under *Counter* section, update *Ultimate interval, manufacturer
     interval* and *reminded counter value*.
 
-![](/help/admin/image120.png)
+![](/admin/image120.png)
 :::note
 *Inherit Value should be used only for the sub-components whose intervals should be decided by their parent component.*
 :::
 -   Under General Tab, update *Automatic Generation of Work Order* to
     Yes and select the status as *Activated.*
 
-![](/help/admin/image115.png)
+![](/admin/image115.png)
 
 -   The screen gets auto saved. Calendar Based Work Orders will not
     generate. Click on the icon to go back the listing screen.
 
-![](/help/admin/image117.png)
+![](/admin/image117.png)
 :::important
 *Counter based work orders shall start generating upon starting the history of the technical component.*
 :::
@@ -778,36 +778,36 @@ For linking time schedule to a technical component, follow as below: -
         gets to the open WO. (provided the new WO is not set to status
         "in progress")
 
-![](/help/admin/image121.png)
+![](/admin/image121.png)
 
 -   In addition to the above, Work plan is also required.
 
-![](/help/admin/image122.png)
+![](/admin/image122.png)
 
 -   Work Order Posting Group also needs to be selected.
 
-![](/help/admin/image123.png)
+![](/admin/image123.png)
 
 #### 15.3.2. Linking / Creating OML to the Cluster Time Schedule
 
 -   Admin can link existing OML or create a new OML in the cluster Time
     Schedule.
 
-![](/help/admin/image124.png)
+![](/admin/image124.png)
 
 While linking OML from TS Card. The steps are : Navigate \> Time
 Schedule \> Object Monitoring Lines. This is the preferred method, its
 easier to define the requirements. Below you can see the all the
 required fields marded in red:
 
-![](/help/admin/image125.png)
+![](/admin/image125.png)
 
 Admin can also attach a Cluster Time Time Schedule going from a
 component card/list page. In order to achieve this the admin needs to
 navigate to the object monitoring lines list or card page and create a
 new entry the result of adding a new entry would look like below:
 
-![](/help/admin/image126.png)
+![](/admin/image126.png)
 
 #### 15.3.3. Enabling Auto Creation of WO
 
@@ -816,7 +816,7 @@ taken to enable the two setting to automatically create WO. So as shown
 in the picture below Automatic Creation to be on and Status to be
 Activated.
 
-![](/help/admin/image127.png)
+![](/admin/image127.png)
 
 ### 15.4 De-activating any Periodic Work Orders
 
@@ -826,36 +826,36 @@ For de-activating the periodic work orders, follow as below:
 
 -   Go to *Technical Component* listing screen and search the component.
 
-![](/help/admin/image109.png)
+![](/admin/image109.png)
 
 -   Select the component, go to *Process\>\>Monitoring*
 
-![](/help/admin/image110.png)
+![](/admin/image110.png)
 
 -   Select the *Template Code* and *Time Schedule No.*
 
-![](/help/admin/image118.png)
+![](/admin/image118.png)
 
 -   Go to *Process\>\>Card* to open Object Monitoring Card
 
-![](/help/admin/image119.png)
+![](/admin/image119.png)
 
 -   Under General Tab, update *Automatic Generation of Work Order* to No
     and select the status as *De*-*Activated.*
 
-![](/help/admin/image128.png)
+![](/admin/image128.png)
 
 -   The screen gets auto saved. Calendar Based Work Orders will not
     generate. Click on the icon to go back the listing screen.
 
-![](/help/admin/image117.png)
+![](/admin/image117.png)
 
 **METHOD 2:**
 
 OML and Time Schedules can be set to Blocked Mode
-![](/help/admin/image129.png)
+![](/admin/image129.png)
 
-![](/help/admin/image130.png)
+![](/admin/image130.png)
 
 By doing so the Block function takes over the current active status.
 Thereby no WO is generated. If individual OMLs are blocked in a cluster,
@@ -875,15 +875,15 @@ Follow as below to set up the counters in the counter update screen.
 
 -   Go to *Technical Component* listing screen and search the component.
 
-![](/help/admin/image109.png)
+![](/admin/image109.png)
 
 -   Under *Process,* click on *Start History* button.
 
-![](/help/admin/image131.png)
+![](/admin/image131.png)
 
 -   Click on *Yes*
 
-![](/help/admin/image132.png)
+![](/admin/image132.png)
 :::important
 *Upon starting the history of the technical component, all counter based time schedules shall start generating the periodic work orders.*
 :::
@@ -907,12 +907,12 @@ In the technical component card. Under the Monitoring lines create a new OML car
     needs to be updated, beyond the set value the counter will be shown
     in red (overdue) at the counter update screen.
 
-![](/help/admin/image133.png)
+![](/admin/image133.png)
 :::note
 Since this is the OML setup to capture counter values for the main
 component we do not specify anything in the Inherit section of Counters.
 :::
-![](/help/admin/image134.png)
+![](/admin/image134.png)
 
 #### 16.2.1 Linking any OML of Main Component to the Counter SL OML to inherit counter values and increments
 
@@ -923,20 +923,20 @@ it to inherit counter updates from the main component:
     OML and it is supposedly going to inherit values from another SL
     OML)
 
-![](/help/admin/image135.png)
+![](/admin/image135.png)
 
 -   In the Counter section insert the Interval (in hours), Reminder (in
     hours). Select the Technical component from which it should inherit
     the counter updates from.
 
-![](/help/admin/image136.png)
+![](/admin/image136.png)
 
 -   In the Inherit Increment Line No. Select the Hours SL OML which we
     created in section
     [21.2](#212-setting-up-of-counters-for-main-component), this will link
     and enable the counter updates to be passed on to the current OML.
 
-![](/help/admin/image137.png)
+![](/admin/image137.png)
 
 ### 16.3. Setting Up of Associated Counters for Sub-Components
 
@@ -947,7 +947,7 @@ Counter Updates from the main-component. To achieve this select the
 technical component from which we are going to inherit counter update.
 Secondly select the SL OML of the Technical Component.
 
-![](/help/admin/image138.png)
+![](/admin/image138.png)
 
 #### 16.3.1 Linking any OML of Sub Component to the Associated Counter SL OML to inherit counter values and increments
 
@@ -961,7 +961,7 @@ it to inherit counter updates from the main component:
     OML and it is supposedly going to inherit values from another SL
     OML)
 
-![](/help/admin/image135.png)
+![](/admin/image135.png)
 
 -   In the Counter section, insert the Interval (in hours), Reminder (in
     hours). Select the Technical component , in our case this will be
@@ -969,7 +969,7 @@ it to inherit counter updates from the main component:
     [16.3](#163-setting-up-of-associated-counters-for-sub-components) from
     which it should inherit the counter updates.
 
-![](/help/admin/image136.png)
+![](/admin/image136.png)
 
 -   In the Inherit Increment Line No. Select the Hours SL OML which we
     created in section
@@ -977,14 +977,14 @@ it to inherit counter updates from the main component:
     will link and enable the counter updates to be passed on to the
     current OML.
 
-![](/help/admin/image137.png)
+![](/admin/image137.png)
 
 Once the above steps are completed, we can check the Update Counter
 Screen. There you will find the main component in bold font and when
 opening the associated counters you will find all the linked
 sub-components listed here.
 
-![](/help/admin/image139.png)
+![](/admin/image139.png)
 
 ## 17. Setting Up Technical Spreadsheet
 
@@ -1003,28 +1003,28 @@ c)  Linking the technical group to the technical components.
 -   In the BLOB search, type *Technical Spreadsheets* and select the
     item from the list.
 
-![](/help/admin/image140.png)
+![](/admin/image140.png)
 
 -   Click on *New* to create a new entry
 
-![](/help/admin/image141.png)
+![](/admin/image141.png)
 
 -   Select the *Serial no.* and click on *Ok*.
 
-![](/help/admin/image142.png)
+![](/admin/image142.png)
 
 -   Under the *File Name* upload the template document.
 
-![](/help/admin/image143.png)
+![](/admin/image143.png)
 
 -   Go to *Process\>\>Document Cell Mapping*
 
-![](/help/admin/image144.png)
+![](/admin/image144.png)
 
 -   Click on the *Edit* button and update *Direction, Table No.,
     Description, Key* and *Cell Name.*
 
-![](/help/admin/image145.png)
+![](/admin/image145.png)
 
 ### 17.2 Linking A Technical Spreadsheet To A Component Group
 
@@ -1034,11 +1034,11 @@ below: -
 -   In the BLOB search, type *Component Group* and select the item from
     the list.
 
-![](/help/admin/image146.png)
+![](/admin/image146.png)
 
 -   Select the *Template No* against the *Component Group*
 
-![](/help/admin/image147.png)
+![](/admin/image147.png)
 
 ### 17.3 Linking The Component Group To The technical Component
 
@@ -1047,18 +1047,18 @@ below:-
 
 -   Go to *Technical Component* listing screen.
 
-![](/help/admin/image148.png)
+![](/admin/image148.png)
 
 -   Search and open the technical component. In the technical component
     card, update the *Component group*.
 
-![](/help/admin/image149.png)
+![](/admin/image149.png)
 
 -   Go to *Actions\>\>Create New Sheet*
 
-![](/help/admin/image150.png)
+![](/admin/image150.png)
 
 -   Close and re-open the Technical Component. Technical Spreadsheet is
     linked to the technical component.
 
-![](/help/admin/image151.png)
+![](/admin/image151.png)

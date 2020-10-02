@@ -18,25 +18,25 @@ For updating the counters, follow as below: -
 
 1.  Click on *Update Counters* button.
 
-![](/help/user/image109.png)
+![](/user/image109.png)
 
 If the user opts to navigate into counters list screen from the cue in
-the Role Centre landing Page, ![](/help/user/image110.png)then user
+the Role Centre landing Page, ![](/user/image110.png)then user
 must enable the “Edit List” to update the counter readings.
 
-![](/help/user/image111.png)
+![](/user/image111.png)
 
 2.  Update *Reading Date* and *Actual Value*
 
-![](/help/user/image112.png)
+![](/user/image112.png)
 
 3.  Go to *Process* and click on *Report Counter Readings*
 
-![](/help/user/image113.png)
+![](/user/image113.png)
 
 4.  Click on *Yes.* Counters updated.
 
-![](/help/user/image114.png)
+![](/user/image114.png)
 
 **Note:**
 
@@ -65,17 +65,17 @@ For viewing the history, follow as below: -
 
 1.  From the Role Centre, Click on *Update Counters* button.
 
-![](/help/user/image109.png)
+![](/user/image109.png)
 
 2.  Select the Counter for which history is to be checked.
 
 3.  Go to *Process\>\>Counter Update History*
 
-![](/help/user/image115.png)
+![](/user/image115.png)
 
 4.  All last updated logs will be listed.
 
-![](/help/user/image116.png)
+![](/user/image116.png)
 
 ## Associated Counters 
 
@@ -87,43 +87,43 @@ can be linked to the main component counter to inherit the increments.
   - As shown below, assign the Parent Component while mounting a
     Sub-Component.
 
-![](/help/user/image117.png)
+![](/user/image117.png)
 
   - Now initiate an OML with the Template Code of Hours (SL), and Assign
     the main component and link it to the Line Number of the main
     component from which the values for sub component should be
     incremented.
 
-![](/help/user/image118.png)
+![](/user/image118.png)
 
-![](/help/user/image119.png)
+![](/user/image119.png)
 
   - After the above OML has been initiated, proceed with creating OML
     linking with TS for the sub-component. By doing this we have OMLs
     completely independent of main counter values. subcomponents can
     have their own Service counters(which we set up above).
 
-![](/help/user/image120.png)
+![](/user/image120.png)
 
   - Make sure to link to the sub-component Line No. Initiate the counter
     as required. Set the Interval for the generation of
-    WO.![](/help/user/image121.png)
+    WO.![](/user/image121.png)
 
-![](/help/user/image121.png)
+![](/user/image121.png)
 
   - On setting up the OML and activating the OML in the OML lines you
     find 2 entries for the Sub-Component which we had created.
 
-![](/help/user/image122.png)
+![](/user/image122.png)
 
   - We can see the changes have been reflected in the Update Counter
     Screen. From now on whenever there is an increment in counter value
     recorded for the main component we can see those increments being
     passed down to the Sub-Components as well.
 
-![](/help/user/image123.png)
+![](/user/image123.png)
 
-![](/help/user/image124.png)
+![](/user/image124.png)
 
 *Note:*
 
@@ -143,25 +143,25 @@ can be linked to the main component counter to inherit the increments.
 
 1.  Click on update counter screen from the role centre
 
-> ![](/help/user/image125.png)
+> ![](/user/image125.png)
 
 2.  In the update counter screen, all the main components with
     subcomponents linked to it will be in bold text.
 
-![](/help/user/image126.png)
+![](/user/image126.png)
 
 3.  By clicking on the main component with the sub-component, then click
     on “Process”
 
 4.  Then click on “View Associate Counters”
 
-![](/help/user/image127.png)
+![](/user/image127.png)
 
 Note: The counter of the sub-component is in view mode only.
 
 ### 5.3.3 Reset Counters 
 
-![](/help/user/image128.png)
+![](/user/image128.png)
 
   - In the update counter screen the user (CE Only) has an option to
     reset the Actual Counter Value. User can see the list of all main
@@ -171,7 +171,7 @@ Note: The counter of the sub-component is in view mode only.
     will change to zero however the total value will remain unchanged
     and have no impact
 
-![](/help/user/image129.png)
+![](/user/image129.png)
 
 User can either reset the value to 0 or to any counter reading that was
 observed at the counter. Click on OK to reflect the changes.

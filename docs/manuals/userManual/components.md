@@ -25,10 +25,10 @@ the vessel.
 
 :::note
 To view/hide columns in any list view page, right-click on the column title bar and select 'Choose Columns'. 
-![](/help/user/columnc.png)
+![](/user/columnc.png)
 
 In the 'Choose Column' screen enable or disable the columns as required. click 'Save' to apply the changes or 'Cancel' to ignore.
-![](/help/user/columnc1.png)
+![](/user/columnc1.png)
 :::
 
 ## Component Card:
@@ -37,12 +37,12 @@ In the 'Choose Column' screen enable or disable the columns as required. click '
 
 2.  Click on “All Components”
 
-![](/help/user/image11.png)
+![](/user/image11.png)
 
 3.  Click on ‘No.’ in Component listing screen, to navigate and view
     component details in Component card page
 
-![](/help/user/image12.png)
+![](/user/image12.png)
 
 4.  View Component details in Component card page
 
@@ -56,28 +56,28 @@ In the 'Choose Column' screen enable or disable the columns as required. click '
 - Monitoring lines: Lists the time schedules which are linked to the
     Component, that will generate a work order
 
-![](/help/user/image13.png)
+![](/user/image13.png)
 
-![](/help/user/image14.png)
+![](/user/image14.png)
 
 *<span class="underline">View details in Fact box:</span>*
 
 1.  Click on ‘i’ on the right top corner to view the details in the fact
     box
 
-![](/help/user/image15.png)
+![](/user/image15.png)
 
 2.  Attach files (Images/ Documents) in the drop area section in the
     fact box
 
 View list of attached files under Files section
 
-![](/help/user/image16.png)
+![](/user/image16.png)
 
 3.  Spare part list: View details of linked spares such as Item No,
     Description and ROB
 
-![](/help/user/image17.png)
+![](/user/image17.png)
 
 4.  Open Work orders by component: List of open work orders for the
     component will be listed
@@ -85,11 +85,11 @@ View list of attached files under Files section
 5.  Work orders by object monitoring lines: List of the work orders by
     object monitoring lines (Periodic Work orders) will be listed
 
-![](/help/user/image18.png)
+![](/user/image18.png)
 
 6.  *Notes: Add notes if any upon clicking the Add button in Notes
     section*
 
-![](/help/user/image19.png)
+![](/user/image19.png)
 
-![](/help/user/image20.png)
+![](/user/image20.png)

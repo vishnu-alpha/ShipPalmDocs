@@ -41,20 +41,20 @@ For setting up the no. series, follow as below: -
 -   In the BLOB search, type *No. Series* and select the item from the
     list.
 
-![](/mms/conf/image4.png)
+![](/help/conf/image4.png)
 
 -   Click on *New* to create a new entry
 
-![](/mms/conf/image5.png)
+![](/help/conf/image5.png)
 
 -   Update *Code*, *Description* and click on the *Starting No* column
 
-![](/mms/conf/image6.png)
+![](/help/conf/image6.png)
 
 -   Update *Starting Date, Starting No.,* and *Ending No.,* and click on
     *Close*
 
-![](/mms/conf/image7.png)
+![](/help/conf/image7.png)
 
  *Note: Update Last Date Used and Last No. Used only when the same
  series has been used earlier and is now intended to be used for a
@@ -63,7 +63,7 @@ For setting up the no. series, follow as below: -
 -   Check the *Default Nos* checkbox. The screen gets auto saved. Click
     on the button to close the screen.
 
-![](/mms/conf/image8.png)
+![](/help/conf/image8.png)
 
 ## 2. Work Order Management Setup
 
@@ -77,54 +77,54 @@ For setting up the Work Order Management Setup, follow as below: -
 -   In the BLOB search, type *Work Order Management Setup* and select
     the item from the list
 
-![](/mms/conf/image9.png)
+![](/help/conf/image9.png)
 
 -   Updated *Exceeding Planned Cost Work Order* as *Posted Work Order:
     Invoices/ Planned*
 
 -   Select *Drop File Type* as *BC-Link*
 
-![](/mms/conf/image10.png)
+![](/help/conf/image10.png)
 
 -   Under *Numbering*, select the *No. Series* to be followed for WO
     Requests, WO, Work Plans and Time Schedules.
 
-![](/mms/conf/image11.png)
+![](/help/conf/image11.png)
 
 -   Under *Electronic Signature*, enable "Dual Control" , when this
     toggle is enabled, user can able to post the registered WO
 
- ![](/mms/conf/image12.png)
+ ![](/help/conf/image12.png)
 
 -   Under *Time Recording*, select the No. Series to be followed for
     Time Recordings.
 
-![](/mms/conf/image13.png)
+![](/help/conf/image13.png)
 
 -   Under *Checklist,* select the No. Series to be followed for
     Checklist.
 
-![](/mms/conf/image14.png)
+![](/help/conf/image14.png)
 
 -   Toggle the bar to active for uploading images against Technical
     Objects.
 
-![](/mms/conf/image15.png)
+![](/help/conf/image15.png)
 
 -   Go to *Actions\\Functions\\Change Work Order Status*
 
-![](/mms/conf/image16.png)
+![](/help/conf/image16.png)
 
 -   Update the Work Order Status that the work orders should follow
 
  *Note: Marking a Status as Down gradable means the work order can be
  reverted to a previous status*
 
-![](/mms/conf/image17.png)
+![](/help/conf/image17.png)
 
 -   The screen gets auto saved. Click on the button to go back.
 
-![](/mms/conf/image18.png)
+![](/help/conf/image18.png)
 
 -   *Work Order Management Setup* completed successfully.
 
@@ -139,11 +139,11 @@ For setting up the approval setup follow as below: -
 -   In the BLOB search, type '*Work Order Approval Setup List'* and
     select the item from the list
 
-![](/mms/conf/image19.png)
+![](/help/conf/image19.png)
 
 -   Click on *New* to open the Work Order Approval Setup Card
 
-![](/mms/conf/image20.png)
+![](/help/conf/image20.png)
 
 -   Update *Code* and *Description.*
 
@@ -153,28 +153,28 @@ For setting up the approval setup follow as below: -
 -   Set the *Document Mandatory* to *active* for making the document
     upload mandatory while requesting deferment.
 
-![](/mms/conf/image21.png)
+![](/help/conf/image21.png)
 
 -   Under *Lines,* select the requester and approver.
 
-![](/mms/conf/image22.png)
+![](/help/conf/image22.png)
 
 *Note: A multiple levels of approval can be setup as below.*
 
-![](/mms/conf/image23.png)
+![](/help/conf/image23.png)
 
 -   Go to *Process* and click on *Activate* to set the workflow as
     active.
 
-![](/mms/conf/image24.png)
+![](/help/conf/image24.png)
 
 -   The approval setup is now active.
 
-![](/mms/conf/image25.png)
+![](/help/conf/image25.png)
 
 -   The screen gets auto saved. Click on the button to close the screen.
 
-![](/mms/conf/image26.png)
+![](/help/conf/image26.png)
 
 ## 4. MT Maritime Setup
 
@@ -186,12 +186,12 @@ For setting up the approval setup follow as below: -
 -   In the BLOB search, type *MT Maritime Setup* and select the item
     from the list
 
-![](/mms/conf/image27.png)
+![](/help/conf/image27.png)
 
 -   Select the Criticality Define Method as *Manually/ FMEA and enable
     'Mandatory of Work done feedback' under general*
 
- ![](/mms/conf/image28.png)
+ ![](/help/conf/image28.png)
 
  *Note: Manual indicates that on the Technical Component Card, the
  criticality can be set up using an Active/ Inactive toggle.*
@@ -207,16 +207,16 @@ be allowed to report work order without adding feedback*
     Enabling different intervals in a cluster and b) Enabling checklists
     to be used System wide with clusters.
 
- ![](/mms/conf/image29.png)
+ ![](/help/conf/image29.png)
 
 -   Under *File Management,* update the maximum allowable size of the
     attachment that can be uploaded.
 
-![](/mms/conf/image30.png)
+![](/help/conf/image30.png)
 
 -   The screen gets auto saved. Click on the button to close the screen.
 
-![](/mms/conf/image31.png)
+![](/help/conf/image31.png)
 
 ## 5. Inventory Setup
 
@@ -228,28 +228,28 @@ For completing the inventory setup, follow as below: -
 -   In the BLOB search, type *Inventory Setup List* and select the item
     from the list
 
-![](/mms/conf/image32.png)
+![](/help/conf/image32.png)
 
 -   Update *Default Costing Method* as *FIFO*
 
 -   Set the *Prevent Negative Inventory* to active to avoid negative
     ROBs.
 
-![](/mms/conf/image33.png)
+![](/help/conf/image33.png)
 
 -   Set the location toggle to active for making the Location update
     mandatory while updating Purchase/ Sale
 
-![](/mms/conf/image34.png)
+![](/help/conf/image34.png)
 
 -   Select the No. Series for the Items.
 
-![](/mms/conf/image35.png)
+![](/help/conf/image35.png)
 
 -   Inventory Setup Completed. The screen gets auto saved. Click on the
     button to close the screen.
 
-![](/mms/conf/image36.png)
+![](/help/conf/image36.png)
 
 ## 6. Unit Of Measure setup
 
@@ -258,7 +258,7 @@ screen. By default none of the UOM items have decimal value input
 enabled. This has a system wide impact on where ever the UOM fields are
 referred to(Item Ledger Entry).
 
-![](/mms/conf/image42.png)
+![](/help/conf/image42.png)
 
 ## 7. Work order posting setup
 
@@ -268,7 +268,7 @@ referred to(Item Ledger Entry).
 -   Click on 'New' in Work Order posting column to create new work order
     posting group
 
-![](/mms/conf/image43.png)
+![](/help/conf/image43.png)
 
 NOTE: WO Posting setup is a one time setup, it should be set when a new
 vessel is been created in the application.
@@ -281,11 +281,11 @@ vessel is been created in the application.
 -   Click on 'New' menu in Inventory posting setup screen, to create
     location code, Inv Posting group code, Inventory account etc.,
 
-![](/mms/conf/image44.png)
+![](/help/conf/image44.png)
 
 -   Click on 'New' in Location Code column to create new location codes
 
-![](/mms/conf/image45.png)
+![](/help/conf/image45.png)
 
  NOTE: Inventory Posting setup is a one time setup, it should be set
  when a new vessel is been created in the application.
@@ -298,7 +298,7 @@ vessel is been created in the application.
 -   To upload a logo of the company, click on '+' near Picture and
     upload the image; this logo will appear in all reports
 
-![](/mms/conf/image46.png)
+![](/help/conf/image46.png)
 
 ## 10. Cue setup
 
@@ -311,7 +311,7 @@ For setting up the cues, follow as below: -
 
 Click on the Button Next to Dashboard and Select 'Setup Cues'
 
- ![](/mms/conf/image47.png)
+ ![](/help/conf/image47.png)
 
 Select Range style under 'Low', 'Middle' and 'High' Range Style from the
 Option (Favorable UnFavorable, Ambiguous and Subordinate)
@@ -320,16 +320,16 @@ Update Low and High Threshold value under Threshold 1 and Threshold 2
 
 Click on Close
 
-![](/mms/conf/image48.png)
+![](/help/conf/image48.png)
 
 The Color of the Tiles on the Dashboard shall Update accordingly ,
 whenever the Count for the respective Tile is Breached
 
-![](/mms/conf/image49.png)
+![](/help/conf/image49.png)
 
 ## 11. Technical Facility Management Setup
 
- ![](/mms/conf/image50.png)
+ ![](/help/conf/image50.png)
 
 These settings need to be auto generated for each ship company during
 the initial setup phase.

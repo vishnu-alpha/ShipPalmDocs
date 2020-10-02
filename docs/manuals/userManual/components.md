@@ -25,10 +25,10 @@ the vessel.
 
 :::note
 To view/hide columns in any list view page, right-click on the column title bar and select 'Choose Columns'. 
-![](/mms/user/columnc.png)
+![](/help/user/columnc.png)
 
 In the 'Choose Column' screen enable or disable the columns as required. click 'Save' to apply the changes or 'Cancel' to ignore.
-![](/mms/user/columnc1.png)
+![](/help/user/columnc1.png)
 :::
 
 ## Component Card:
@@ -37,12 +37,12 @@ In the 'Choose Column' screen enable or disable the columns as required. click '
 
 2.  Click on “All Components”
 
-![](/mms/user/image11.png)
+![](/help/user/image11.png)
 
 3.  Click on ‘No.’ in Component listing screen, to navigate and view
     component details in Component card page
 
-![](/mms/user/image12.png)
+![](/help/user/image12.png)
 
 4.  View Component details in Component card page
 
@@ -56,28 +56,28 @@ In the 'Choose Column' screen enable or disable the columns as required. click '
 - Monitoring lines: Lists the time schedules which are linked to the
     Component, that will generate a work order
 
-![](/mms/user/image13.png)
+![](/help/user/image13.png)
 
-![](/mms/user/image14.png)
+![](/help/user/image14.png)
 
 *<span class="underline">View details in Fact box:</span>*
 
 1.  Click on ‘i’ on the right top corner to view the details in the fact
     box
 
-![](/mms/user/image15.png)
+![](/help/user/image15.png)
 
 2.  Attach files (Images/ Documents) in the drop area section in the
     fact box
 
 View list of attached files under Files section
 
-![](/mms/user/image16.png)
+![](/help/user/image16.png)
 
 3.  Spare part list: View details of linked spares such as Item No,
     Description and ROB
 
-![](/mms/user/image17.png)
+![](/help/user/image17.png)
 
 4.  Open Work orders by component: List of open work orders for the
     component will be listed
@@ -85,11 +85,11 @@ View list of attached files under Files section
 5.  Work orders by object monitoring lines: List of the work orders by
     object monitoring lines (Periodic Work orders) will be listed
 
-![](/mms/user/image18.png)
+![](/help/user/image18.png)
 
 6.  *Notes: Add notes if any upon clicking the Add button in Notes
     section*
 
-![](/mms/user/image19.png)
+![](/help/user/image19.png)
 
-![](/mms/user/image20.png)
+![](/help/user/image20.png)

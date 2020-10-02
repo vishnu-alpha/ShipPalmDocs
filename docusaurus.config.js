@@ -11,18 +11,18 @@ module.exports = {
   title: 'ShipPalm',
   tagline: 'Marine ERP Solution',
   url: 'https://your-docusaurus-test-site.com',
-  baseUrl: '/mms/',
+  baseUrl: '/help/',
   favicon: 'img/favicon.ico',
   organizationName: 'Alpha Ori', // Usually your GitHub org/user name.
-  projectName: 'MMS Documentation', // Usually your repo name.
+  projectName: 'ShipPalm Documentation', // Usually your repo name.
   plugins: [
     'docusurus-lunr-search',
   ],
   themeConfig: {
     navbar: {
-      title: 'MMS',
+      title: 'ShipPalm',
       logo: {
-        alt: 'MMS Documentation Logo',
+        alt: 'ShipPalm Documentation Logo',
         src: 'img/logo.png',
       },
       links: [

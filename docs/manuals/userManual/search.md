@@ -428,10 +428,10 @@ Sample Expression   Records Displayed
 
 1.  Select the module from the menu
 
-2.  Click on the Filter (![con](/mms/user/image145.png)) button to open
+2.  Click on the Filter (![con](/help/user/image145.png)) button to open
     the filter pane
 
-![](/mms/user/image146.png)
+![](/help/user/image146.png)
 
 3.  Click on the filter button under filter list by and type in the date
     in the date search field
@@ -439,34 +439,34 @@ Sample Expression   Records Displayed
 4.  Type in the keyword using \< as prefix to filter work orders with
     due date less than 11/30/19
 
-![](/mms/user/image147.png)
+![](/help/user/image147.png)
 
 5.  Type in the keyword using \> as prefix to filter work orders with
     due date greater than 11/30/19
 
-![](/mms/user/image148.png)
+![](/help/user/image148.png)
 
 6.  If we want to filter work orders with due date between 11/30/19 and
     11/17/20; type in the keyword using .. in between the dates
     (11/30/19..11/17/20)
 
-![](/mms/user/image149.png)
+![](/help/user/image149.png)
 
 ### How to search – Value Field
 
 1.  Select the module from the menu
 
-2.  Click on the Filter (![con](/mms/user/image145.png)) button to open
+2.  Click on the Filter (![con](/help/user/image145.png)) button to open
     the filter pane
 
-![](/mms/user/image146.png)
+![](/help/user/image146.png)
 
 3.  Click on the filter button under filter list by and type in the
     value in the filter box
 
 4.  Type in the value, to filter values based on the search
 
-![](/mms/user/image150.png)
+![](/help/user/image150.png)
 
 5.  Type in the value using \< as prefix, to filter values less than the
     value provided in the filter
@@ -474,7 +474,7 @@ Sample Expression   Records Displayed
 > For e.g., Click on Interval (Counter) in filter list by section and
 > type in the value as \<6000 to filter counter values less than 6000
 
-![](/mms/user/image151.png)
+![](/help/user/image151.png)
 
 6.  Type in the value using \> as prefix, to filter values less than the
     value provided in the filter
@@ -482,21 +482,21 @@ Sample Expression   Records Displayed
 > For e.g., Click on Interval (Counter) in filter list by section and
 > type in the value as \>6000 to filter counter values greater than 6000
 
-![](/mms/user/image152.png)
+![](/help/user/image152.png)
 
 7.  For filtering the Intervals between 500 to 8000; type in the keyword
     using .. in between the intervals (500..8000)
 
-![](/mms/user/image153.png)
+![](/help/user/image153.png)
 
 ### How to search – Text field
 
 1.  Select the module from the menu
 
-2.  Click on the Filter (![con](/mms/user/image145.png)) button to open
+2.  Click on the Filter (![con](/help/user/image145.png)) button to open
     the filter pane
 
-![](/mms/user/image146.png)
+![](/help/user/image146.png)
 
 3.  Click on filter button under filter list by and type in the text in
     the text search field
@@ -504,30 +504,30 @@ Sample Expression   Records Displayed
 4.  Type in the keyword using \* as prefix, to filter the values ending
     with the keywords
 
-> ![](/mms/user/image154.png)
+> ![](/help/user/image154.png)
 
 5.  Type in the keyword using \* as suffix, to filter the values
     starting with the keywords
 
-> ![](/mms/user/image155.png)
+> ![](/help/user/image155.png)
 
 6.  Type in the keyword using \* as prefix and suffix and press enter
     (Ex - \*Purifier\*).
 
-> ![](/mms/user/image156.png)
+> ![](/help/user/image156.png)
 
 All components with the keyword will be filtered. (as seen below)
 
-> ![](/mms/user/image157.png)
+> ![](/help/user/image157.png)
 
 ### How to search – Dropdown value field
 
 1.  Select the module from the menu
 
-2.  Click on the Filter (![con](/mms/user/image145.png)) button to open
+2.  Click on the Filter (![con](/help/user/image145.png)) button to open
     the filter pane
 
-![](/mms/user/image146.png)
+![](/help/user/image146.png)
 
 3.  Click on the filter button under filter list by and type in the
     value in the search field and select the applicable value from the
@@ -538,9 +538,9 @@ All components with the keyword will be filtered. (as seen below)
 > select the rank from the drop-down, all the values equal to the rank
 > will be filtered in the list.
 
-![](/mms/user/image158.png)
+![](/help/user/image158.png)
 
-![](/mms/user/image159.png)
+![](/help/user/image159.png)
 
 **NOTE**: Filter search is case sensitive, need to type in exact value
 in the filter box; for e.g., If we want to search HFO Purifiers; type in
@@ -553,7 +553,7 @@ exact value (HFO Purifiers) in Filter box.
     
     2.  Results will be displayed based on the searched entry
 
-![](/mms/user/image160.png)
+![](/help/user/image160.png)
 
 **NOTE**: Free Text Search is not case sensitive
 
@@ -570,12 +570,12 @@ For opening the search tab, follow the following steps: -
 
 2.  Click on “All Work Orders” to open the work orders list.
 
-![](/mms/user/image161.png)
+![](/help/user/image161.png)
 
-3.  Click on the Filter (![con](/mms/user/image145.png)) button to open
+3.  Click on the Filter (![con](/help/user/image145.png)) button to open
     the filter pane
 
-![](/mms/user/image162.png)
+![](/help/user/image162.png)
 
 ## User Cases:
 ### CASE 01: Searching By Work Order Title
@@ -583,101 +583,101 @@ For opening the search tab, follow the following steps: -
 Type in the keyword in the search pane and press enter. The work orders
 with the specified keywords will filter.
 
-![](/mms/user/image163.png)
+![](/help/user/image163.png)
 
 ### CASE 02: Filtering by Due Status
 
 1.  Click on “Filter” button under “Filter List By” and select “Due
     Status”
 
-> ![](/mms/user/image164.png)
+> ![](/help/user/image164.png)
 
 2.  Select the *Status (In Window/ In Due Range/ Overdue)*
 
-> ![](/mms/user/image165.png)
+> ![](/help/user/image165.png)
 
 3.  Based on the due status selected, all the WO’s shall filter.
 
-![](/mms/user/image166.png)
+![](/help/user/image166.png)
 
 ### CASE 03: Filtering By WO Status
 
 1.  Click on *Filter* button under *Filter List By* and select *Work
     Order Status value*
 
-![](/mms/user/image167.png)
+![](/help/user/image167.png)
 
 2.  Choose Work Order Status value from the drop-down
     (Planning/Execution/In Progress/Finished)
 
-![](/mms/user/image168.png)
+![](/help/user/image168.png)
 
 4.  All work orders with the Work Order Status selected will be
     filtered.
 
-![](/mms/user/image169.png)
+![](/help/user/image169.png)
 
 ### CASE 04: Filtering WO’s for A Technical Object
 
 1.  Click on *Filter* button under *Filter List By* and select
     *Technical Object Description*
 
-![](/mms/user/image170.png)
+![](/help/user/image170.png)
 
 2.  Type in the keyword using \* as prefix and suffix and press enter
     (Ex - \*vibration damper\*)
 
-> ![](/mms/user/image171.png)
+> ![](/help/user/image171.png)
 
 3.  All work orders for the Technical Components will be filtered.
 
-![](/mms/user/image172.png)
+![](/help/user/image172.png)
 
 ### CASE 05: Filtering Approved Deferred WO
 
 1.  Click on Filter button under Filter List By and select Technical
     Object Description
 
-![](/mms/user/image173.png)
+![](/help/user/image173.png)
 
 2.  Update \>0 in the text field and press enter.
 
-> ![](/mms/user/image174.png)
+> ![](/help/user/image174.png)
 
 3.  All approved deferred jobs will be filtered.
 
-![](/mms/user/image175.png)
+![](/help/user/image175.png)
 
 ### CASE 06: Filtering WO Assigned To A Specific rank
 
 1.  Click on Filter button under Filter List By and select *Responsible
     Rank*
 
-![](/mms/user/image176.png)
+![](/help/user/image176.png)
 
 2.  Select the Rank from the list.
 
-> ![](/mms/user/image177.png)
+> ![](/help/user/image177.png)
 
 1.  All WO assigned to the selected rank will be filtered.
 
-![](/mms/user/image178.png)
+![](/help/user/image178.png)
 
 ### Case 08: Filtering WO By Activity Type (Ex – Inspection, Overhaul, Etc) 
 
 1.  Click on Filter button under Filter List By and select *Type Of
     Activity Code*
 
-![](/mms/user/image179.png)
+![](/help/user/image179.png)
 
 2.  Select the activity (Inspection, Calibration, Cleaning, Overhaul,
     etc) from the predefined list.
 
-> ![](/mms/user/image180.png)
+> ![](/help/user/image180.png)
 
 3.  All Work Orders with the selected activity will be filtered.
 
-![](/mms/user/image181.png)
+![](/help/user/image181.png)
 
 FILTERING WO BY INTERVAL:
 
@@ -693,7 +693,7 @@ selecting the appropriate Filter field - Interval (Counter) or Interval
 2.  *Type in the value in the text field and click enter*
 
 3.  *All Work orders with the selected Interval (Counter) will be
-    filtered*![](/mms/user/image182.png)
+    filtered*![](/help/user/image182.png)
 
 <!-- end list -->
 
@@ -702,19 +702,19 @@ selecting the appropriate Filter field - Interval (Counter) or Interval
     filter Work orders greater than Interval (Counter), type in the
     value with prefix as ‘\>’ (e.g., \>5000)*
 
-> ![](/mms/user/image183.png)
+> ![](/help/user/image183.png)
 > 
-> ![](/mms/user/image184.png)
+> ![](/help/user/image184.png)
 
 5.  *To filter Work orders between Interval (Counter) values, type in ..
     between two values*
 
-> ![](/mms/user/image185.png)
+> ![](/help/user/image185.png)
 
 6.  To get all counter based WO doing a search for value \>1, this will
     display all the jobs based on counters
 
-> ![](/mms/user/image186.png) 
+> ![](/help/user/image186.png) 
 
 ### Case 10: Filtering WO By interval (DATE) 
 
@@ -726,34 +726,34 @@ selecting the appropriate Filter field - Interval (Counter) or Interval
 
 3.  *All Work orders with the selected Interval (Date) will be filtered*
 
-![](/mms/user/image187.png)
+![](/help/user/image187.png)
 
 4.  *To filter Work orders less than Interval (Date), type in the value
     with prefix as \< in the text field and to filter Work orders
     greater than Interval (Date), type in the value with prefix as \>*
 
-![](/mms/user/image188.png)
+![](/help/user/image188.png)
 
-![](/mms/user/image189.png)
+![](/help/user/image189.png)
 
 5.  *To filter Work orders between Interval (Date) values, type in .. in
     between two values*
 
-![](/mms/user/image190.png)
+![](/help/user/image190.png)
 
 6\. To see all WO based on date filter Interval (date) with a value
 \>1D.
 
-![](/mms/user/image191.png)
+![](/help/user/image191.png)
 
 ## Clearing the Filter Search
     
     1.  Click on *Reset Filter* button to reset the filter after search.
     
-    2.  Click on *Cross* (![con](/mms/user/image192.png)) button to
+    2.  Click on *Cross* (![con](/help/user/image192.png)) button to
         close the filter pane.
 
-> ![](/mms/user/image193.png)
+> ![](/help/user/image193.png)
 
 *Note:* The user can filter by multiple parameters together and use them
 as a single search. For e.g. In Work order Listing screen, Due Status =
@@ -769,12 +769,12 @@ For opening the search tab,
 
 1.  Go to *Work Orders\>\>History* to open the closed work orders list.
 
-![](/mms/user/image194.png)
+![](/help/user/image194.png)
 
-2.  Click on the *Filter (*![](/mms/user/image145.png)*)* button to
+2.  Click on the *Filter (*![](/help/user/image145.png)*)* button to
     open the filter pane
 
-![](/mms/user/image195.png)
+![](/help/user/image195.png)
 
 ## User Cases:
 ### Case 01: Searching By Work Order Title
@@ -782,53 +782,53 @@ For opening the search tab,
 1.  Type in a keyword in the search pane and press enter. The work
     orders with the specified keywords shall filter.
 
-![](/mms/user/image196.png)
+![](/help/user/image196.png)
 
 ### Case 02: Filtering WO Assigned To A Specific rank
 
 1.  Click on Filter button under Filter List By and select *Responsible
     Rank*
 
-![](/mms/user/image197.png)
+![](/help/user/image197.png)
 
 2.  Select the Rank from the list.
 
-![](/mms/user/image177.png)
+![](/help/user/image177.png)
 
 3.  All WO completed by the selected rank will be filtered.
 
-![](/mms/user/image198.png)
+![](/help/user/image198.png)
 
 ### Case 03: Filtering WO’s Reported In A Time Period
 
 > 1\. Click on the Filter button under Filter List By and select
-> *Reported Completed Date-Time* ![](/mms/user/image199.png)
+> *Reported Completed Date-Time* ![](/help/user/image199.png)
 
 1.  Select a *Date* range as ‘Lower Date’..’Higher Date’ (Example –
     01/01/2019..03/01/2019)
 
-![](/mms/user/image200.png)
+![](/help/user/image200.png)
 
 3.  All Work Orders reported between 1 Jan 2019 and 1 March 2019 will be
     filtered
 
-![](/mms/user/image201.png)
+![](/help/user/image201.png)
 
 ### Case 04: Filtering WO By Activity Type (Ex – Inspection, Overhaul, Etc) 
 
 1.  Click on Filter button under Filter List By and select *Type Of
     Activity Code*
 
-![](/mms/user/image202.png)
+![](/help/user/image202.png)
 
 2.  Select the activity (Inspection, Calibration, Cleaning, Overhaul,
     etc) from the predefined list.
 
-![](/mms/user/image180.png)
+![](/help/user/image180.png)
 
 3.  All Work Orders with the selected activity will be filtered.
 
-![](/mms/user/image203.png)
+![](/help/user/image203.png)
 
 ## Component Search & Filtering
 
@@ -841,12 +841,12 @@ components from the list.
 
 2.  Click on “All Components”
 
-> ![](/mms/user/image11.png)
+> ![](/help/user/image11.png)
 
-3.  Click on the Filter (![con](/mms/user/image145.png)) button to open
+3.  Click on the Filter (![con](/help/user/image145.png)) button to open
     the filter pane
 
-> ![](/mms/user/image146.png)
+> ![](/help/user/image146.png)
 
 ## User Cases:
 ### CASE 01: Filtering by component name
@@ -854,31 +854,31 @@ components from the list.
 1.  Click on the Filter button under *Filter List By* and select
     *Description*
 
-![](/mms/user/image204.png)
+![](/help/user/image204.png)
 
 1.  Type in the keyword using \* as prefix and suffix and press enter
     (Ex - \*Purifier\*).
 
-> ![](/mms/user/image156.png)
+> ![](/help/user/image156.png)
 
 All components with the keyword will be filtered. (as seen below)
 
-![](/mms/user/image157.png)
+![](/help/user/image157.png)
 
 ### CASE 02: Filtering Critical Components
 
 1.  Click on the Filter button under “Filter List By” and select
     Critical
 
-> ![](/mms/user/image205.png)
+> ![](/help/user/image205.png)
 
 2.  Click on *Yes*
 
-![](/mms/user/image206.png)
+![](/help/user/image206.png)
 
 All Critical components will be filtered.
 
-![](/mms/user/image207.png)
+![](/help/user/image207.png)
 
 Note: The user can follow steps as per CASE 01 for searching a specific
 component from the Critical Components List.
@@ -887,50 +887,50 @@ component from the Critical Components List.
 
 1.  Click on the Filter button under “Filter List By” and select Class
 
-![](/mms/user/image208.png)
+![](/help/user/image208.png)
 
 2.  Click on *Yes*
 
-> ![](/mms/user/image209.png)
+> ![](/help/user/image209.png)
 
 All Class components will be filtered.
 
-![](/mms/user/image210.png)
+![](/help/user/image210.png)
 
 ### CASE 04: Filtering Component Of a Specific Maker/Model
 
 1.  Click on “Filter” button under “Filter List By” and select
     “Manufacturer Name”
 
-![](/mms/user/image211.png)
+![](/help/user/image211.png)
 
 2.  Type in the keyword using \* as prefix and suffix and press enter
     (Example - \*Kobe\*)
 
-![](/mms/user/image212.png)
+![](/help/user/image212.png)
 
 2.  Again, click on the “Filter” button under “Filter List By” and
     select “Model Name”
 
-> ![](/mms/user/image213.png)
+> ![](/help/user/image213.png)
 
 3.  Type in the keyword using \* as prefix and suffix and press enter
     (Example - \*63121\*)
 
-> ![](/mms/user/image214.png)
+> ![](/help/user/image214.png)
 
 4.  All components with the specified maker/model will be filtered.
 
-![](/mms/user/image215.png)
+![](/help/user/image215.png)
 
 ### Clearing the Filter Search
 
 1.  Click on “*Reset Filter”* button to reset the filter after search.
 
-2.  Click on *Cross* (![con](/mms/user/image192.png)) button to close
+2.  Click on *Cross* (![con](/help/user/image192.png)) button to close
     the filter pane.
 
-![](/mms/user/image193.png)
+![](/help/user/image193.png)
 
 *Note:* The user can filter by multiple parameters together and use them
 as a single search. For e.g. In Work order Listing screen, Due Status =
@@ -950,74 +950,74 @@ For filtering spares for a component, follow as below: -
 
 1.  Go to *Inventory\>\>All Items*
 
-![](/mms/user/image216.png)
+![](/help/user/image216.png)
 
 2.  Click on *Additional Filter\>\>Filter By Components*
 
-![](/mms/user/image217.png)
+![](/help/user/image217.png)
 
 3.  Click on the *Dropdown* button and *Select from Full List* to open
     the technical component list.
 
-![](/mms/user/image218.png)
+![](/help/user/image218.png)
 
 4.  In the *Search* box type in the *component name* for filtering*.*
 
 5.  Now select the component from the list and click on *OK*.
 
-![](/mms/user/image219.png)
+![](/help/user/image219.png)
 
 6.  Component has been selected. Click on *Ok*
 
 *Note: Follow similar steps as above for adding more components in the
 list.*
 
-![](/mms/user/image220.png)
+![](/help/user/image220.png)
 
 7.  All spares for the selected component will be filtered.
 
-![](/mms/user/image221.png)
+![](/help/user/image221.png)
 
 ### CASE 02: Filtering By Drawing No./Part No./Position No.
 
 1.  Go to *Inventory\>\>All Items*
 
-![](/mms/user/image216.png)
+![](/help/user/image216.png)
 
 2.  Click on the *Filter List By*.
 
 3.  Now click on the attribute (Drawing No., Part No.,Position No.) you
     want the filter
 
-![](/mms/user/image222.png)
+![](/help/user/image222.png)
 
 4.  Update the attribute description
 
-![](/mms/user/image223.png)
+![](/help/user/image223.png)
 
 5.  All items for the selected attribute will be filtered.
 
-![](/mms/user/image224.png)
+![](/help/user/image224.png)
 
 ### CASE 03: Filtering by Spare Name
 
 1.  Go to *Inventory\>\>All Items*
 
-![](/mms/user/image216.png)
+![](/help/user/image216.png)
 
 2.  Click on the Search box in the Spares Listing screen and type in the
     spares name.
 
 3.  The spare will be filtered.
 
-![](/mms/user/image225.png)
+![](/help/user/image225.png)
 
 ### CASE 04: Filtering in the closed work orders list (Ledger Entries) to see the Spares Consumption:
 
 From any closed WO user can use the ‘Work Order Details’ factbox to see
 the number of spares consumed.
 
-![](/mms/user/image226.png)
+![](/help/user/image226.png)
 
 When the consumption number is clicked user is taken to a WO ledger
 entry screen.
@@ -1025,7 +1025,7 @@ entry screen.
 Here the user can see which other work orders have consumed the same
 spare part.
 
-![](/mms/user/image227.png)
+![](/help/user/image227.png)
 
 This can be further filtered with a date range to see the consumption
 done in the range.

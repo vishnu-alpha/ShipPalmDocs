@@ -64,7 +64,7 @@ time schedule will be available in the work order.
 
 2.  *Click on ‘No.’ to navigate into work order card page*
 
-![](/mms/user/image21.png)
+![](/help/user/image21.png)
 
 3.  <Highlight color="#ebedf0">View Work Order Details:</Highlight>
 
@@ -88,23 +88,23 @@ time schedule will be available in the work order.
 If instructions are added against the work plan, the same will get
 populated in this section
 
-![](/mms/user/image22.png)
+![](/help/user/image22.png)
 
-![](/mms/user/image23.png)
+![](/help/user/image23.png)
 
 <Highlight color="#ebedf0">View details in Fact box:</Highlight>
 
 1.  Click on ‘i’ on the right top corner to view the details in the fact
     box
 
-> ![](/mms/user/image15.png)
+> ![](/help/user/image15.png)
 
 2.  Attach files (Images/ Documents) in the drop area section in the
     fact box
 
 3.  View list of attached files under Files section
 
-> ![](/mms/user/image24.png)
+> ![](/help/user/image24.png)
 
 4.  *Work order Details:*
 
@@ -129,7 +129,7 @@ populated in this section
 List of linked components against the work order will be listed in this
 section
 
-![](/mms/user/image25.png)
+![](/help/user/image25.png)
 
 6.  *Approval/Deferment history:*
 
@@ -139,9 +139,9 @@ the User
 7.  *Notes: Add notes if any upon clicking the Add button in Notes
     section*
 
-> ![](/mms/user/image26.png)
+> ![](/help/user/image26.png)
 > 
-> ![](/mms/user/image20.png)
+> ![](/help/user/image20.png)
 
 ### Printing Work Order Card
 
@@ -149,15 +149,15 @@ For taking a printout of work order card follow as below: -
 
 1.  Go to *Work Orders\>\>All Work Orders*
 
-![](/mms/user/image27.png)
+![](/help/user/image27.png)
 
 2.  Type in the Search box to search and Open the work order
 
-![](/mms/user/image28.png)
+![](/help/user/image28.png)
 
 3.  Go to *Actions\>\>Print\>\>Work Order Card*
 
-![](/mms/user/image29.png)
+![](/help/user/image29.png)
 
 4.  Select the suitable option from the Print screen.
 
@@ -169,7 +169,7 @@ For taking a printout of work order card follow as below: -
 
 - Print – For getting a hard copy printout.
 
-![](/mms/user/image30.png)
+![](/help/user/image30.png)
 
 ### Sending A Work Order Request
 
@@ -184,27 +184,27 @@ For sending a work order request, follow as below: -
 
 1.  From the Role Center, click on Create Work Order Request.
 
-![](/mms/user/image31.png)
+![](/help/user/image31.png)
 
 2.  Select No. and Reference Object (Component Address, Mounting
     Position, Technical Component).
 
 3.  Update Description, Entry Date, Rank and other details.
 
-![](/mms/user/image32.png)
+![](/help/user/image32.png)
 
 4.  Go to Navigate\>\>Work Order Request\>\>Details
 
-![](/mms/user/image33.png)
+![](/help/user/image33.png)
 
 5.  Select the Technical Object
 
-![](/mms/user/image34.png)
+![](/help/user/image34.png)
 
 6.  Go to Process and click on Register button to send the work order
     request for approval.
 
-![](/mms/user/image35.png)
+![](/help/user/image35.png)
 
 Note: All the work order requests get auto saved with Draft status but
 only upon clicking on Register, the request be shall sent for approval.
@@ -223,13 +223,13 @@ For approving a Work Order Request, follow as below: -
 
 1.  Click on the Tile (*WO’s To Be Verified*).
 
-![](/mms/user/image36.png)
+![](/help/user/image36.png)
 
 2.  Search and open the work order
 
 3.  Go to *Process* and click on *Post* button
 
-![](/mms/user/image37.png)
+![](/help/user/image37.png)
 
 4.  From the pop up either click on: -
 
@@ -244,7 +244,7 @@ For approving a Work Order Request, follow as below: -
 - **Reject** – To reject the work order request if it is invalid and
     does not require attention.
 
-![](/mms/user/image38.png)
+![](/help/user/image38.png)
 
 *Note: Upon clicking on Post, the Work Order Request gets saved under
 Work Order Request\>\>Posted Work Order Requests Tab. The user needs to
@@ -266,23 +266,23 @@ For creating a work order from posted work order, follow as below:-
 
 1.  Go to *Work Orders\>\>Posted Work Order Requests*
 
-![](/mms/user/image39.png)
+![](/help/user/image39.png)
 
 2.  Search and Open the Work Order Request
 
-![](/mms/user/image40.png)
+![](/help/user/image40.png)
 
 3.  Go to *Action\>\>Functions* and click on *Create Work Order*
 
-![](/mms/user/image41.png)
+![](/help/user/image41.png)
 
 4.  Click on *Yes*
 
-![](/mms/user/image42.png)
+![](/help/user/image42.png)
 
 1.  Work Order created successfully.
 
-![](/mms/user/image43.png)
+![](/help/user/image43.png)
 
 ### Creating A Non-Periodic Work Order 
 
@@ -294,36 +294,36 @@ For creating a work order, follow as below: -
 
 1.  From the *Role Center*, click on *Create Work Order*.
 
-![](/mms/user/image44.png)
+![](/help/user/image44.png)
 
 2.  Update Title, Work Order Category, Reference Object, Reason Code and
     Due Date.
 
-![](/mms/user/image45.png)
+![](/help/user/image45.png)
 
 3.  Upon selecting Reference Object, select the *Technical Object* from
     the pop-up window.
 
-![](/mms/user/image46.png)
+![](/help/user/image46.png)
 
 4.  Under *Work Order* *Lines* section update *required resources,
     items* and *external services* required for completing the work
     order.
 
-![](/mms/user/image47.png)
+![](/help/user/image47.png)
 
 5.  Under *Safety Notices,* update the safety and health instructions to
     be followed.
 
-![](/mms/user/image48.png)
+![](/help/user/image48.png)
 
 1.  Under *Description,* update the tasks to be completed.
 
-![](/mms/user/image49.png)
+![](/help/user/image49.png)
 
 2.  Under *Checklist,* update the checks to be carried out.
 
-![](/mms/user/image50.png)
+![](/help/user/image50.png)
 
 *Note: All created work orders get auto saved with Planning Status*
 
@@ -338,7 +338,7 @@ For reporting a non-periodic work order follow as below: -
 
 1.  Go to *Work Order\>\>Non-Periodic Work Orders*
 
-![](/mms/user/image51.png)
+![](/help/user/image51.png)
 
 2.  Select the Work Order, go to *Process* and click on *Report Work
     Order*
@@ -347,30 +347,30 @@ For reporting a non-periodic work order follow as below: -
 
 *Note: A WO can only be reported when the status is Execution.*
 
-![](/mms/user/image52.png)
+![](/help/user/image52.png)
 
 3.  *Do not activate* the *Add Consumption/Services*.
 
-![](/mms/user/image53.png)
+![](/help/user/image53.png)
 
 Click on *Show/Hide Safety notices to r*ead the *safety notices* and
 *instructions*.
 
-![](/mms/user/image54.png)
+![](/help/user/image54.png)
 
 4.  Update your comments under *Work done
-    Feedback*![](/mms/user/image55.png)
+    Feedback*![](/help/user/image55.png)
 
 5.  Upload relevant documents such as Permit to Work, Risk Assessments,
     etc.
 
 6.  Click on *Next* to go to the next screen.
 
-![](/mms/user/image56.png)
+![](/help/user/image56.png)
 
 7.  Update the *Checklist* and click on *Next.*
 
-![](/mms/user/image57.png)
+![](/help/user/image57.png)
 
 1.  Update *Finished Date-Time*
 
@@ -383,7 +383,7 @@ Set the *Change Work Order Status* to *Close:* Only CE can directly
 Change the work order status from finished to closed and click on
 *Submit*
 
-![](/mms/user/image58.png)
+![](/help/user/image58.png)
 
 #### Reporting a non-periodic work order with consumption
 
@@ -391,48 +391,48 @@ For reporting a non-periodic work order follow as below: -
 
 1.  Go to *Work Order\>\>Non-Periodic Work Orders*
 
-![](/mms/user/image51.png)
+![](/help/user/image51.png)
 
 2.  Select the Work Order, go to *Process* and click on *Report Work
     Order*
 
 *Note: Overdue work orders are highlighted as RED*
 
-![](/mms/user/image52.png)
+![](/help/user/image52.png)
 
 *If any consumptions to be reported, toggle* the *Add
 Consumption/Services button*.
 
-![](/mms/user/image59.png)
+![](/help/user/image59.png)
 
 3.  Click on *Show/Hide safety notices to r*ead the *safety notices* and
     *description*.
 
-![](/mms/user/image54.png)
+![](/help/user/image54.png)
 
 4.  Update your comments under *Work done Feedbacks*
 
-![](/mms/user/image60.png)
+![](/help/user/image60.png)
 
 5.  Upload relevant documents such as Permit to Work, Risk Assessments,
     etc.
 
 6.  Click on *Next* to go to the next screen.
 
-![](/mms/user/image61.png)  
+![](/help/user/image61.png)  
 7\. Update the *Checklist* and click on *Next.*
 
-![](/mms/user/image57.png)
+![](/help/user/image57.png)
 
 8.  Click on three dots in No. to select the items consumed, by default
     the spares linked to the component will be displayed in the pop up.
     Select the item consumed, and click on Ok in Items pop up screen
 
-![](/mms/user/image62.png)
+![](/help/user/image62.png)
 
-![](/mms/user/image63.png)
+![](/help/user/image63.png)
 
-![](/mms/user/image64.png)
+![](/help/user/image64.png)
 
 Selected item will be populated in Item Consumptions section, and
 default location of the item will be populated in Location Code
@@ -441,7 +441,7 @@ default location of the item will be populated in Location Code
     Location code, only the item locations where ROB \> 0 will be
     displayed in a pop up. Select the location and click on ok
 
-![](/mms/user/image65.png)
+![](/help/user/image65.png)
 
 10. *Items popup will open on clicking three dots in No. under Item
     consumptions section:*
@@ -462,12 +462,12 @@ default location of the item will be populated in Location Code
     From the filter by component wizard select any other component to
     view the item specific to the selected component
 
-![](/mms/user/image66.png)
+![](/help/user/image66.png)
 
 - Update items consumed, resources utilized, and services used. Click
     on *Next*
 
-![](/mms/user/image67.png)
+![](/help/user/image67.png)
 
 11. Update *Finished Date-Time*
 
@@ -489,7 +489,7 @@ changing the status or clicking on ‘Submit’, the data entered by the
 user is auto saved. However, the consumptions are only posted on
 clicking on ‘Submit’
 
-![](/mms/user/image68.png)
+![](/help/user/image68.png)
 
 7.  ### Reporting Periodic Work Orders
     
@@ -501,19 +501,19 @@ follow as below: -
 1.  Go to *Work Order\>\>Periodic Work Orders*. All work orders are
     available here.
 
-![](/mms/user/image69.png)
+![](/help/user/image69.png)
 
 2.  Select the Work Order, go to *Process* and click on *Report Work
     Order*
 
 *Note: Overdue work orders are highlighted as RED*
 
-![](/mms/user/image52.png)
+![](/help/user/image52.png)
 
 User can also report a work order from within a workorder card. By
 clicking on the Process \> Report Work Order.
 
-![](/mms/user/image70.png)
+![](/help/user/image70.png)
 
 3.  *If consumptions need to be added, toggle ‘Add Consumption/Services’
     button*.
@@ -523,38 +523,38 @@ will not be able to proceed without entering Item, Resource and Ext
 service consumption. The system will show an error message if the
 consumption fields are left blank.
 
-![](/mms/user/image59.png)
+![](/help/user/image59.png)
 
 4.  Click on *Show/Hide Work notices to r*ead the *work notices* and
     *instructions*.
 
-![](/mms/user/image54.png)
+![](/help/user/image54.png)
 
 5.  Update your comments under *Work done Feedback*
 
-![](/mms/user/image71.png)
+![](/help/user/image71.png)
 
 6.  Upload relevant documents such as Permit to Work, Risk Assessments,
     etc.
 
 7.  Click on *Next* to go to the next screen.
 
-![](/mms/user/image61.png)
+![](/help/user/image61.png)
 
 8.  If there is a checklist set up as part of the time schedule; update
     the *Checklist* and click on *Next.*
 
-![](/mms/user/image57.png)
+![](/help/user/image57.png)
 
 9.  Click on three dots in No. to select the items consumed, by default
     the spares linked to the component will be displayed in the pop up.
     Select the item consumed, and click on Ok *in Items Pop up screen*
 
-![](/mms/user/image62.png)
+![](/help/user/image62.png)
 
-![](/mms/user/image63.png)
+![](/help/user/image63.png)
 
-![](/mms/user/image64.png)
+![](/help/user/image64.png)
 
 Selected item will be populated in Item Consumptions section, and
 default location of the item will be populated
@@ -563,7 +563,7 @@ default location of the item will be populated
     Location code, only the item locations where ROB \> 0 will be
     displayed in a pop up. Select the location and click on ok
 
-![](/mms/user/image65.png)
+![](/help/user/image65.png)
 
 11. *Items popup will open on clicking three dots in No. under Item
     consumptions section:*
@@ -584,12 +584,12 @@ default location of the item will be populated
     From the filter by component wizard select any other component to
     view the item specific to the selected component
 
-![](/mms/user/image66.png)
+![](/help/user/image66.png)
 
 - Update items consumed, resources utilized, and services used. Click
     on *Next*
 
-![](/mms/user/image67.png)
+![](/help/user/image67.png)
 
 12. Update *Finished Date-Time.*
 
@@ -602,7 +602,7 @@ default location of the item will be populated
     Change the work order status from finished to closed and click on
     *Submit*
 
-![](/mms/user/image72.png)
+![](/help/user/image72.png)
 
 12. On finishing, the next Work order is generated with a new due date -
     calculated as below:
@@ -620,7 +620,7 @@ consumptions follow as below: -
 1.  Go to *Work Order\>\>Periodic Work Orders*. All work orders are
     available here.
 
-![](/mms/user/image69.png)
+![](/help/user/image69.png)
 
 2.  Select the Work Order, go to *Process* and click on *Report Work
     Order*
@@ -630,39 +630,39 @@ consumptions follow as below: -
 *Note: The user will be prompted to update the counter as on date before
 reporting the work order*
 
-![](/mms/user/image52.png)
+![](/help/user/image52.png)
 
 3.  *If consumptions need to be added, toggle* ‘*Add
     Consumption/Services’ button*.
 
-![](/mms/user/image59.png)
+![](/help/user/image59.png)
 
 4.  Click on *Show/Hide Safety notices to r*ead the *safety notices* and
     *instructions*.
 
-![](/mms/user/image54.png)
+![](/help/user/image54.png)
 
 5.  Update your comments under *Work done Feedback*
 
-![](/mms/user/image71.png)
+![](/help/user/image71.png)
 
 6.  Upload relevant documents such as Permit to Work, Risk Assessments,
     etc.
 
 7.  Click on *Next* to go to the next screen.
 
-![](/mms/user/image61.png)
+![](/help/user/image61.png)
 
 8.  If there is a checklist set up as part of the time schedule; update
     the *Checklist* and click on *Next.*
 
-![](/mms/user/image57.png)
+![](/help/user/image57.png)
 
 9.  Click on three dots in No. to select the items consumed, by default
     the spares linked to the component will be displayed in the pop up.
     Select the item consumed, and *click on Ok in Items popup screen*
 
-![](/mms/user/image64.png)
+![](/help/user/image64.png)
 
 Selected item will be populated in Item Consumptions section, and
 default location of the item will be populated
@@ -671,7 +671,7 @@ default location of the item will be populated
     Location code, only the item locations where ROB \> 0 will be
     displayed in a pop up. Select the location and click on ok
 
-![](/mms/user/image65.png)
+![](/help/user/image65.png)
 
 11. *Items popup will open on clicking three dots in No. under Item
     consumptions section:*
@@ -692,12 +692,12 @@ default location of the item will be populated
     From the filter by component wizard select any other component to
     view the item specific to the selected component
 
-![](/mms/user/image66.png)
+![](/help/user/image66.png)
 
 - Update items consumed, resources utilized, and services used. Click
     on *Next*
 
-![](/mms/user/image67.png)
+![](/help/user/image67.png)
 
 1.  Update *Finished Counter Value.*
 
@@ -710,7 +710,7 @@ default location of the item will be populated
     Change the work order status from finished to closed and click on
     *Submit*
 
-![](/mms/user/image72.png)
+![](/help/user/image72.png)
 
 On updating the status to finished, the next Work Order is generated
 where
@@ -748,21 +748,21 @@ as below: -
 1.  Go to *Work Order\>\>Periodic Work Orders*. All work orders are
     available here.
 
-![](/mms/user/image69.png)
+![](/help/user/image69.png)
 
 2.  Click on the Filter icon to open the filter pane.
 
-![](/mms/user/image73.png)
+![](/help/user/image73.png)
 
 3.  In the filter pane, select Filter by *Due Status* and select the
     Status as *In Window*
 
-![](/mms/user/image74.png)
+![](/help/user/image74.png)
 
 4.  All in Window work orders are filtered. Type in the search box to
     search the work order.
 
-![](/mms/user/image75.png)
+![](/help/user/image75.png)
 
 5.  *Activate* the *Add Consumption/Services only if Consumptions or
     Services are to be recorded*.
@@ -770,33 +770,33 @@ as below: -
 *Note: Leave the PERIODIC OUT OF TURN button as inactive as this WO is
 being updated out of turn and is not planned.*
 
-![](/mms/user/image76.png)
+![](/help/user/image76.png)
 
 6.  Click on *Show/Hide Safety notices to r*ead the *safety notices* and
     *instructions*.
 
-![](/mms/user/image54.png)
+![](/help/user/image54.png)
 
 7.  Update your comments under *Work done Feedbacks*
 
-![](/mms/user/image71.png)
+![](/help/user/image71.png)
 
 8.  Upload relevant documents such as Permit to Work, Risk Assessments,
     etc.
 
 9.  Click on *Next* to go to the next screen.
 
-![](/mms/user/image61.png)
+![](/help/user/image61.png)
 
 10. Update the *Checklist* and click on *Next.*
 
-![](/mms/user/image57.png)
+![](/help/user/image57.png)
 
 11. Click on three dots in No. to select the items consumed, by default
     the spares linked to the component is displayed in the pop up.
     Select the item consumed, and click on Ok
 
-![](/mms/user/image64.png)
+![](/help/user/image64.png)
 
 Selected item will be populated in Item Consumptions section, and
 default location of the item will be populated in Location Code
@@ -806,7 +806,7 @@ default location of the item will be populated in Location Code
     displayed in a pop up. Select the location and click on ok, *in
     Items pop up screen*
 
-![](/mms/user/image65.png)
+![](/help/user/image65.png)
 
 13. *Items popup will open on clicking three dots in No. under Item
     consumptions section:*
@@ -827,7 +827,7 @@ default location of the item will be populated in Location Code
     From the filter by component wizard select any other component to
     view the item specific to the selected component
 
-![](/mms/user/image77.png)
+![](/help/user/image77.png)
 
 - Update items consumed, resources utilized, and services used. Click
     on *Next*
@@ -835,7 +835,7 @@ default location of the item will be populated in Location Code
 *NOTE: Consumption page will activate only when ADD CONSUMPTION button
 is activated in the first screen.*
 
-![](/mms/user/image67.png)
+![](/help/user/image67.png)
 
 14. Update *Finished Date-Time.*
 
@@ -845,37 +845,37 @@ is activated in the first screen.*
 > Change the work order status from finished to closed and click on
 > *Submit*
 
-![](/mms/user/image72.png)
+![](/help/user/image72.png)
 
 ### Reporting Cluster Work Order
 
 Work order can be reported from WO listing page as well as from the WO
 Card page. Cluster WO is also reported like any other WO.
 
-![](/mms/user/image78.png)
+![](/help/user/image78.png)
 
 In the reporting wizard: you will find a “Report Cluster” page where the
 Cluster Feedback can be captured. The feedback can be a text or integer
 as set by the admin during the initial setup.
 
-![](/mms/user/image79.png)
+![](/help/user/image79.png)
 
 User can individually give feedback to each component or can give a
 feedback and apply the same to all the components.
 
-![](/mms/user/image80.png)
+![](/help/user/image80.png)
 
 During inspection if a defect/one-time WO is required the same can be
 triggered by checking the “Create Follow Up WO”. This will open up
 one-time wo creation wizard.
 
-![](/mms/user/image81.png)
+![](/help/user/image81.png)
 
 If there are no follow up required, the next screen in the Cluster WO
 reporting wizard has the option to fill in the finished dates of each
 work item. This can be bulk updated or individually updated.
 
-![](/mms/user/image82.png)
+![](/help/user/image82.png)
 
 Proceed to next page to Finish/Close the work order.
 
@@ -898,12 +898,12 @@ For sending a deferment request, follow as below: -
 
 1.  Go to *Work Order\>\>All Work Orders*
 
-![](/mms/user/image83.png)
+![](/help/user/image83.png)
 
 2.  Select the Work Order, go to *Process* and click on *Request
     Deferment*
 
-![](/mms/user/image84.png)
+![](/help/user/image84.png)
 
 3.  On the pop-up page ‘Deferment’, for a calendar based work order or a
     counter based work order, update the New Due Date when the work
@@ -912,7 +912,7 @@ For sending a deferment request, follow as below: -
 
 For Calendar based work order; Due Date = Last done date + Interval
 
-![](/mms/user/image85.png)
+![](/help/user/image85.png)
 
 Alternatively, for Counter based open work orders, update the ‘Deferment
 to counter value’, and enter tab.
@@ -930,7 +930,7 @@ No. of days
 
 No. of days = First Reading Date to Last Reading Date
 
-![](/mms/user/image86.png)
+![](/help/user/image86.png)
 
 On scrolling down, the Deviation % for the new due date requested is
 calculated and displayed according to the following formula:
@@ -944,19 +944,19 @@ For Calendar based work orders:
 
 % Deferment = \[(New Due Date - Due Date) / Interval\] \* 100
 
-![](/mms/user/image87.png)
+![](/help/user/image87.png)
 
 4.  Drag and drop here to upload supporting documents (example – Risk
     Assessments) required for extension.
 
-![](/mms/user/image88.png)
+![](/help/user/image88.png)
 
 5.  Click on *Close.* A message “*The deferment request is sent to
     TSI\!”* will be displayed and the request will be sent for
     approval*.* Also, the status of the work order shall change to
     *Deferment Requested.*
 
-![](/mms/user/image89.png)
+![](/help/user/image89.png)
 
 *Note: A deferment request can be sent only when the work order status
 is Execution.*
@@ -1007,20 +1007,20 @@ For Approving a deferment request, follow as below: -
 
 1.  Click on the Tile (*WO’s Deferment Requested*)
 
-![](/mms/user/image90.png)
+![](/help/user/image90.png)
 
 2.  Under *Approval/ Deferment History*, and Select *Show*
 
-![](/mms/user/image91.png)
+![](/help/user/image91.png)
 
 3.  Go to *Process* and select *Approve*
 
-![](/mms/user/image92.png)
+![](/help/user/image92.png)
 
 4.  Re-update E*xecution Date* (if required). Also, update *Approval
     Note* *and c*lick on *OK.*
 
-![](/mms/user/image93.png)
+![](/help/user/image93.png)
 
 ###  Closing Work Orders
 
@@ -1033,19 +1033,19 @@ For reviewing a finished Work Order, follow as below: -
 
 1.  Click on the Tile (*WO’s to Be Verified*).
 
-![](/mms/user/image94.jpg)
+![](/help/user/image94.jpg)
 
 2.  Search open the work order and review the updated details.
 
-![](/mms/user/image95.png)
+![](/help/user/image95.png)
 
-![](/mms/user/image96.png)
+![](/help/user/image96.png)
 
-![](/mms/user/image97.png)
+![](/help/user/image97.png)
 
-![](/mms/user/image98.png)
+![](/help/user/image98.png)
 
-![](/mms/user/image60.png)![](/mms/user/image99.png)
+![](/help/user/image60.png)![](/help/user/image99.png)
 
 *Note: All ‘Work done feedbacks’ and consumptions in the closed work
 orders are consolidated while reviewing the work orders.*
@@ -1056,7 +1056,7 @@ Navigate\>\>Work Order\>\>Posted Work Order Feedbacks and review them.*
 3.  Go to *Actions\>\>Change Status* and set the status of the work
     order to *Closed* to close the work order.
 
-![](/mms/user/image100.png)
+![](/help/user/image100.png)
 
 *Note: Prior changing the status of the work order to closed, the user
 can also create feedbacks if required.*
@@ -1090,40 +1090,40 @@ For creating a follow up work order, follow as below: -
 
 2.  Go to *Actions\>\>Create Follow-Up Work Order*
 
-![](/mms/user/image101.png)
+![](/help/user/image101.png)
 
 3.  Update Title, Work Order Category, Reference Object, Reason Code and
     Due Date.
 
-![](/mms/user/image45.png)
+![](/help/user/image45.png)
 
 4.  Upon selecting Reference Object, select the *Technical Object* from
     the pop-up window.
 
-![](/mms/user/image46.png)
+![](/help/user/image46.png)
 
 5.  Under *Lines* section update *required resources, items* and
     *external services* required for completing the work order.
 
-![](/mms/user/image102.png)
+![](/help/user/image102.png)
 
 6.  Under *Work Notices,* update the safety and health instructions to
     be followed.
 
-![](/mms/user/image103.png)
+![](/help/user/image103.png)
 
 7.  Under *Description,* update the tasks to be completed.
 
-![](/mms/user/image49.png)
+![](/help/user/image49.png)
 
 8.  Under *Checklist,* update the checks to be carried out.
 
-![](/mms/user/image50.png)
+![](/help/user/image50.png)
 
 9.  Under *Activity* tab, work plan no, type of damage, malfunction,
     etc. can be updated if required.
 
-![](/mms/user/image104.png)
+![](/help/user/image104.png)
 
 *Note: A Follow Up Work Order can be created even for a work order whose
 status is already Closed.*
@@ -1145,21 +1145,21 @@ Go to *Work Orders\>\>History* to open the closed work orders list.
 
 1.  Click on No. to open the Work Order.
 
-![](/mms/user/image105.png)
+![](/help/user/image105.png)
 
 2.  Review the updated details in the Work Order Card page.
 
-![](/mms/user/image95.png)
+![](/help/user/image95.png)
 
-![](/mms/user/image96.png)
+![](/help/user/image96.png)
 
-![](/mms/user/image106.png)
+![](/help/user/image106.png)
 
-![](/mms/user/image98.png)
+![](/help/user/image98.png)
 
-![](/mms/user/image107.png)
+![](/help/user/image107.png)
 
-![](/mms/user/image99.png)
+![](/help/user/image99.png)
 
 3.  View Number of overdue days in closed work order listing.
 
@@ -1168,4 +1168,4 @@ Go to *Work Orders\>\>History* to open the closed work orders list.
 > number of overdue’ days will be calculated as the number of days
 > between the Due date and Work order Finished date.
 > 
-> ![](/mms/user/image108.png)
+> ![](/help/user/image108.png)

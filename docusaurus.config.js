@@ -10,11 +10,11 @@
 module.exports = {
   title: 'ShipPalm',
   tagline: 'Marine ERP Solution',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://orange-moss-04e232c00.azurestaticapps.net/',
   baseUrl: '/help/',
   favicon: 'img/favicon.ico',
-  organizationName: 'Alpha Ori', // Usually your GitHub org/user name.
-  projectName: 'ShipPalm Documentation', // Usually your repo name.
+  organizationName: 'vishnu-alpha', // Usually your GitHub org/user name.
+  projectName: 'ShipPalmDocs', // Usually your repo name.
   plugins: [
     'docusurus-lunr-search',
   ],
